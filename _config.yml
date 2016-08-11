@@ -1,0 +1,14 @@
+layout_spectrum: 0.0012882999144494534
+typography_spectrum: 0.3170129042118788
+color:
+  brandStrength: 0.53456573584117
+  lightness: 0.22487635258585215
+  saturation: 0.5310755430255085
+  rhythmicContrast: 0.1979805810842663
+  brandColors:
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+name: PasajeroDeAvianca
